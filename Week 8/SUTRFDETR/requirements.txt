@@ -1,0 +1,7 @@
+rfdetr
+opencv-python
+supervision
+flask
+flask-socketio
+Pillow
+numpy
